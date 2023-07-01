@@ -1,2 +1,6 @@
 .vs
 .vsconfig
+Assets
+Library
+Temp
+**/*.log
